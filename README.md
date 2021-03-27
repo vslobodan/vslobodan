@@ -1,5 +1,5 @@
 ## Hi! I'm beginner developer from Ukraine
-# I try all directions to choose for myself
+### I try all directions to choose for myself
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-FFD700?style=for-the-badge&logo=python)
