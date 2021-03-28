@@ -3,6 +3,7 @@
 - :zany_face: I have not yet decided on the direction, so I try everything
 - I play basketball:basketball: and volleyball:volleyball:
 - During the day I am a programmer:innocent:, at night I am a hacker:man_technologist:
+
 ---
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-FFD700?style=for-the-badge&logo=python)
