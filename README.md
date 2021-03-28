@@ -8,8 +8,8 @@
 ![git](https://img.shields.io/badge/-Git-231F29?style=for-the-badge&logo=git)
 ![sql](https://img.shields.io/badge/-SQL-973EF8?style=for-the-badge)
 ### My contacts
-[<img align = "left" alt = "Telegram" width  = "22px" src = "https://www.flaticon.com/svg/vstatic/svg/2111/2111710.svg?token=exp=1616928373~hmac=2074b90dbb02558476014917a64da984">][telegram]
-[<img align = "left" alt = "Twitter" width  = "22px" src = "https://www.flaticon.com/svg/vstatic/svg/1384/1384017.svg?token=exp=1616928126~hmac=936144b2e0643d8c2a73d39320fa8c8e">][twitter]
+[<img align = "left" alt = "Telegram" width  = "40px" src = "https://www.flaticon.com/svg/vstatic/svg/2111/2111710.svg?token=exp=1616928373~hmac=2074b90dbb02558476014917a64da984">][telegram]
+[<img align = "left" alt = "Twitter" width  = "40px" src = "https://www.flaticon.com/svg/vstatic/svg/1384/1384017.svg?token=exp=1616928126~hmac=936144b2e0643d8c2a73d39320fa8c8e">][twitter]
 
 [telegram]: https://t.me/vslbdn
 [twitter]: https://twitter.com/voslobodan
