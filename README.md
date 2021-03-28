@@ -4,7 +4,6 @@
 - I play basketball:basketball: and volleyball:volleyball:
 - During the day I am a programmer:innocent:, at night I am a hacker:man_technologist:
 
----
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-FFD700?style=for-the-badge&logo=python)
 ![git](https://img.shields.io/badge/-Git-231F29?style=for-the-badge&logo=git)
