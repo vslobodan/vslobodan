@@ -13,7 +13,7 @@
 [<img align = "left" alt = "Linkedin" width  = "40px" src = "https://www.flaticon.com/svg/vstatic/svg/1384/1384014.svg?token=exp=1616932693~hmac=78cc222e5284009bd49cc23cd669ba18">][Linkedin]
 
 <br />
-<img align = "left" alt = "Linkedin" src = "https://github-readme-stats.vercel.app/api?username=vslobodan">
+<img align = "left" alt = "Linkedin" src = "https://github-readme-stats.vercel.app/api?username=vslobodan&show_icons=true&theme=onedark">
 
 [telegram]: https://t.me/vslbdn
 [twitter]: https://twitter.com/voslobodan
