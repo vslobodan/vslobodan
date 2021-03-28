@@ -14,6 +14,6 @@
 [<img align = "left" alt = "Twitter" width  = "40px" src = "https://www.flaticon.com/svg/vstatic/svg/145/145812.svg?token=exp=1616936230~hmac=a2fe4fee9b15dca97647f1b4e67782d7">][twitter]
 [<img align = "left" alt = "Linkedin" width  = "40px" src = "https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1616936230~hmac=6e39bee04efd8950c7e37d0fe9ebedb0">][Linkedin]
 
-[telegram]: https://t.me/vslbdn
+[telegram]: https://t.me/slbdnwork
 [twitter]: https://twitter.com/voslobodan
 [Linkedin]: https://www.linkedin.com/login/ru
