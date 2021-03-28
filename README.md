@@ -6,8 +6,9 @@
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-FFD700?style=for-the-badge&logo=python)
+![sql](https://img.shields.io/badge/-SQL-00AE68?style=for-the-badge)
 ![git](https://img.shields.io/badge/-Git-231F29?style=for-the-badge&logo=git)
-![sql](https://img.shields.io/badge/-SQL-973EF8?style=for-the-badge)
+![github](https://img.shields.io/badge/-GitHub-FF5600?style=for-the-badge&logo=github)
 ### Connect with me:
 [<img align = "left" alt = "Telegram" width  = "40px" src = "https://www.flaticon.com/svg/vstatic/svg/2111/2111646.svg?token=exp=1616936445~hmac=f265715383d9fa78f163ed2209159ba0">][telegram]
 [<img align = "left" alt = "Twitter" width  = "40px" src = "https://www.flaticon.com/svg/vstatic/svg/145/145812.svg?token=exp=1616936230~hmac=a2fe4fee9b15dca97647f1b4e67782d7">][twitter]
